@@ -1,0 +1,13 @@
+# dockerfile
+# We inherit the Python 3 image.
+FROM public.ecr.aws/docker/library/python:3.10.13
+# Expose the port uWSGI will listen on
+EXPOSE 5000
+# Copy the requirements file in order to install Python dependencies
+COPY requirements.txt .
+# Install Python dependencies
+RUN pip install -r requirements.txt
+# Copy the entire source folder
+COPY . .
+# Run uwsgi server
+CMD uwsgi --master --workers 5 --threads 50 --protocol http --socket 0.0.0.0:5000 --module app.flask_app:flask_app

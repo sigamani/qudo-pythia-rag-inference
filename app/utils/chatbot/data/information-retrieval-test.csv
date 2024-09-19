@@ -1,0 +1,191 @@
+segmentation,testing_question,label,top_question,cosine_score,computation_time,predicted_label,predicted_vs_actual
+qudo_bank_switching_segmentation,What consumer credit products do you possess?,1,What kind of consumer credit products do you have?,0.9762938323,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What varieties of consumer credit facilities do you have?,1,What kind of consumer credit products do you have?,0.944956696,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which consumer credit products are in your possession?,1,What kind of consumer credit products do you have?,0.9600495258,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of your savings for long-term goals?,1,How often do you save for long-term goals?,0.9555887161,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How regularly do you put money aside for long-term goals?,1,How often do you save for long-term goals?,0.9712481148,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you save for future expenses?,1,How often do you save for long-term goals?,0.9502857297,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What credit facilities are you currently using?,1,What credit products do you currently have?,0.9231254627,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What types of credit products do you presently possess?,1,What credit products do you currently have?,0.9669140481,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which credit products do you have right now?,1,What credit products do you currently have?,0.982274424,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your investing frequency?,1,How often do you invest money?,0.9237706096,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you put money into investments?,1,How often do you invest money?,0.9711821929,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of your investments?,1,How often do you invest money?,0.9261022428,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How trustworthy do you find financial organizations?,1,How much do you trust financial organizations?,0.9760025302,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your level of faith in financial organizations?,1,How much do you trust financial organizations?,0.9579319863,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you have ample trust in financial organizations?,1,How much do you trust financial organizations?,0.965681131,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you favor financial brands that you are familiar with?,1,Do you prefer sticking with familiar financial brands?,0.963380006,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Is it your preference to use financial brands that you know?,1,Do you prefer sticking with familiar financial brands?,0.9535004381,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you have a liking for financial brands that you are familiar with?,1,Do you prefer sticking with familiar financial brands?,0.9547483074,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What are the factors that would hinder you from switching to another bank?,1,What factors would prevent you from switching to another bank?,0.9891724813,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which factors would stop you from changing your bank?,1,What factors would prevent you from switching to another bank?,0.9660487519,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What reasons would prevent you from switching to another bank?,1,What factors would prevent you from switching to another bank?,0.983561673,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which organization furnishes your everyday checking account?,1,What organization provides your daily checking account?,0.9833305789,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the name of the financial organization that provides your regular checking account?,1,What organization provides your daily checking account?,0.9564986737,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Who is the provider of your daily checking account?,1,What organization provides your daily checking account?,0.9492613751,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your primary source to search for credit products?,1,Where do you look first when searching for credit products?,0.9384570932,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which is your first preference to search for credit-related facilities?,1,Where do you look first when searching for credit products?,0.9324349347,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Where do you primarily look for credit products?,1,Where do you look first when searching for credit products?,0.9551309355,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Is it your tendency to spend money as soon as you get it?,1,Do you tend to spend money as soon as you receive it?,0.9601583619,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently spend money as soon as you receive it?,1,Do you tend to spend money as soon as you receive it?,0.9879069691,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you have a habit of spending money as soon as you receive it?,1,Do you tend to spend money as soon as you receive it?,0.9782955252,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Are you in possession of any financial products?,1,Do you own or use any financial products?,0.9603272622,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you use any financial services or products?,1,Do you own or use any financial products?,0.9700381353,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What financial products do you possess?,1,Do you own or use any financial products?,0.9492916057,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What methods have you used to save money in the last 12 months?,1,How have you saved money over the past 12 months?,0.9706841118,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How did you save money in the past year?,1,How have you saved money over the past 12 months?,0.9453381307,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What were your savings techniques in the last 12 months?,1,How have you saved money over the past 12 months?,0.9474454291,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the first thing that comes to your mind when considering financial risk?,1,What is the first thing you think of when considering financial risk?,0.993535298,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the primary factor you consider while evaluating financial risk?,1,What is the first thing you think of when considering financial risk?,0.9271228214,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which is the foremost aspect that comes to your mind while thinking about financial risk?,1,What is the first thing you think of when considering financial risk?,0.9673320904,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you consider yourself to be an early adopter of innovative financial apps/products?,1,Would you say you are an early adopter of innovative financial products/apps?,0.9856376016,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Are you inclined towards innovative financial apps/products?,1,Would you say you are an early adopter of innovative financial products/apps?,0.9447379713,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Would you say you are an initial user of innovative financial products/apps?,1,Would you say you are an early adopter of innovative financial products/apps?,0.9749123697,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your top priority when you shop for credit products?,1,What is most important to you when shopping for credit products?,0.9780246274,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which factors are most crucial to you when buying credit products?,1,What is most important to you when shopping for credit products?,0.9654257172,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What aspects are most significant to you when you purchase credit-related facilities?,1,What is most important to you when shopping for credit products?,0.9225227203,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which are the three most important factors to you when you shop for credit products?,1,What three factors are most important to you when shopping for credit products?,0.9960406813,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What are your top three priorities when you look for credit products?,1,What three factors are most important to you when shopping for credit products?,0.9664736402,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which three aspects are most crucial to you when you buy credit-related facilities?,1,What three factors are most important to you when shopping for credit products?,0.948878858,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your primary source to search for financial products?,1,Where do you look first when searching for financial products?,0.9374567324,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which is your first preference to search for financial services?,1,Where do you look first when searching for financial products?,0.9252820625,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Where do you primarily look for financial products?,1,Where do you look first when searching for financial products?,0.9536413886,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of making only minimum payments on loans?,1,How often do you make only minimum payments on loans?,0.9693287096,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you pay only the minimum amount on loans?,1,How often do you make only minimum payments on loans?,0.979065946,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you make only minimum payments on loans frequently?,1,How often do you make only minimum payments on loans?,0.9711917606,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How self-assured are you in the management of your finances?,1,How confident are you in managing your finances?,0.9787656023,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your level of confidence in managing your finances?,1,How confident are you in managing your finances?,0.9832679449,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you feel confident in handling your finances?,1,How confident are you in managing your finances?,0.9717719682,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which types of insurance do you possess?,1,What types of insurance do you have?,0.9645093599,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What insurance policies do you own?,1,What types of insurance do you have?,0.9380734468,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What kinds of insurance do you have?,1,What types of insurance do you have?,0.9891770035,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Are you at ease with borrowing money?,1,Are you comfortable borrowing money?,0.9799811305,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you feel comfortable taking out loans?,1,Are you comfortable borrowing money?,0.9546406306,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Is borrowing money a comfortable option for you?,1,Are you comfortable borrowing money?,0.9631839221,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of paying bills on time?,1,How often do you pay bills on time?,0.9624778233,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you pay bills on time frequently?,1,How often do you pay bills on time?,0.9647816653,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you make on-time bill payments?,1,How often do you pay bills on time?,0.9722882411,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of your shopping on comparison websites?,1,How often do you shop on comparison websites?,0.9644073481,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you visit comparison websites for shopping?,1,How often do you shop on comparison websites?,0.9817773365,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently shop on comparison websites?,1,How often do you shop on comparison websites?,0.9680008737,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which financial services have you used in the last 12 months?,1,What financial services have you used in the past 12 months?,0.9921192456,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What are the financial facilities you have used in the past year?,1,What financial services have you used in the past 12 months?,0.9270110326,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What financial services did you use in the last 12 months?,1,What financial services have you used in the past 12 months?,0.9881179447,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,For how long have you been with your principal bank?,1,How long have you been with your primary bank?,0.9588457993,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How much time have you spent with your main bank?,1,How long have you been with your primary bank?,0.9448217338,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the duration of your association with your primary bank?,1,How long have you been with your primary bank?,0.954438362,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of considering switching banks?,1,How often do you consider switching banks?,0.9643516767,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you think of changing your bank?,1,How often do you consider switching banks?,0.9630221181,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently consider switching banks?,1,How often do you consider switching banks?,0.9762776434,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How do you expect your financial situation to be like a year from now?,1,How do you anticipate your financial situation in a year from now?,0.9736402898,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What do you anticipate your financial situation to be like in the next 12 months?,1,How do you anticipate your financial situation in a year from now?,0.9465841939,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What are your expectations for your financial situation in a year from now?,1,How do you anticipate your financial situation in a year from now?,0.9612593649,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What words would you use to describe your credit score?,1,How would you describe your credit score?,0.9696778395,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How would you characterize your credit score?,1,How would you describe your credit score?,0.9880539649,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What adjectives would you use to explain your credit score?,1,How would you describe your credit score?,0.9674173494,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the reason behind your saving money?,1,Why do you save money?,0.9644915564,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Why do you put aside money?,1,Why do you save money?,0.9149543647,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What motivates you to save money?,1,Why do you save money?,0.9390573884,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of paying off credit balances entirely every month?,1,How often do you pay off credit balances in full each month?,0.9589487337,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you pay off the entire credit balance each month?,1,How often do you pay off credit balances in full each month?,0.9768841589,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you pay off credit balances in full every month frequently?,1,How often do you pay off credit balances in full each month?,0.9659579214,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you feel comfortable taking financial risks or investing?,1,Are you comfortable taking financial risks or investing?,0.9900570267,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Are you at ease with financial risks or investing?,1,Are you comfortable taking financial risks or investing?,0.9748677115,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Is taking financial risks or investing a comfortable option for you?,1,Are you comfortable taking financial risks or investing?,0.9760250362,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of reaching the credit card limit?,1,How often do you max out credit card limits?,0.9308261286,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you max out your credit card limits?,1,How often do you max out credit card limits?,0.9953338199,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently reach your credit card limit?,1,How often do you max out credit card limits?,0.9430023663,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your typical way of dealing with unexpected expenses or purchases?,1,How do you typically handle unexpected expenses or purchases?,0.9848988573,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How do you usually handle unexpected expenses or purchases?,1,How do you typically handle unexpected expenses or purchases?,0.9973178483,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your standard practice in managing unexpected expenses or purchases?,1,How do you typically handle unexpected expenses or purchases?,0.9691978653,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of having an emergency savings fund?,1,How often do you maintain an emergency savings fund?,0.9625856027,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you keep an emergency savings fund?,1,How often do you maintain an emergency savings fund?,0.9945460881,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently maintain an emergency savings fund?,1,How often do you maintain an emergency savings fund?,0.9637446195,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Does money play a significant role in your life?,1,Does your life revolve around money?,0.9272812077,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Is your life centered around money?,1,Does your life revolve around money?,0.9825106096,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you consider your life to be dominated by money?,1,Does your life revolve around money?,0.9464282905,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of checking your checking account balance?,1,How often do you check your checking account balance?,0.9747681431,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you view your checking account balance?,1,How often do you check your checking account balance?,0.9799108661,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently check your checking account balance?,1,How often do you check your checking account balance?,0.9739940072,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of tracking monthly expenses?,1,How often do you track monthly expenses?,0.9657987506,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you monitor your monthly expenses?,1,How often do you track monthly expenses?,0.9760352171,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently track your monthly expenses?,1,How often do you track monthly expenses?,0.9687011101,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of saving money from each paycheck?,1,How often do you save money from each paycheque?,0.9370833692,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you put aside money from each paycheck?,1,How often do you save money from each paycheque?,0.9268616631,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently save money from each paycheque?,1,How often do you save money from each paycheque?,0.9718001015,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of contributing to a retirement plan?,1,How often do you contribute to a retirement plan?,0.9634737779,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How frequently do you invest in a retirement plan?,1,How often do you contribute to a retirement plan?,0.9726857306,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently contribute to a retirement plan?,1,How often do you contribute to a retirement plan?,0.9606316835,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your perception of your financial knowledge?,1,How financially knowledgeable do you consider yourself to be?,0.9318477146,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you consider yourself well-informed in financial matters?,1,How financially knowledgeable do you consider yourself to be?,0.9498009885,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your level of financial expertise according to you?,1,How financially knowledgeable do you consider yourself to be?,0.9442076523,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your primary financial objective for the next 12 months?,1,What is your top financial goal for the next 12 months?,0.9681102421,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your most important financial goal for the coming year?,1,What is your top financial goal for the next 12 months?,0.9529588306,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the key financial aim for you in the next 12 months?,1,What is your top financial goal for the next 12 months?,0.9591950407,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,"Has your credit score improved, remained the same, or deteriorated in the last year?",1,"Has your credit score improved, remained stable, or worsened in the past year?",0.975933672,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,"Has your credit score gone up, stayed constant, or decreased in the past year?",1,"Has your credit score improved, remained stable, or worsened in the past year?",0.9682003165,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,"What is the status of your credit score in the last year - improved, stagnant, or worsened?",1,"Has your credit score improved, remained stable, or worsened in the past year?",0.956875198,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of checking your credit score?,1,How often do you check your credit score?,0.9729336227,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How regularly do you review your credit score?,1,How often do you check your credit score?,0.971501681,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently check your credit score?,1,How often do you check your credit score?,0.9657135019,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is the frequency of sticking to your budget or spending plan?,1,How often do you stay within budget or spending plan?,0.9434970775,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How often do you adhere to your budget or spending plan?,1,How often do you stay within budget or spending plan?,0.9683445919,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Do you frequently stay within your budget or spending plan?,1,How often do you stay within budget or spending plan?,0.973735644,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your way of interaction with your bank or financial organization?,1,How do you interact with your bank or financial organization?,0.9727643503,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How do you usually communicate with your bank or financial organization?,1,How do you interact with your bank or financial organization?,0.9617671561,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What is your standard practice of interacting with your bank or financial organization?,1,How do you interact with your bank or financial organization?,0.9541433514,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,What were the primary reasons for getting a credit report or checking your credit score in the last year?,1,What are the main reasons for obtaining a credit report or checking your credit score in the past 12 months?,0.9727427489,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Which were the major reasons for acquiring a credit report or reviewing your credit score in the past 12 months?,1,What are the main reasons for obtaining a credit report or checking your credit score in the past 12 months?,0.9807716805,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,Why did you obtain a credit report or check your credit score in the last year?,1,What are the main reasons for obtaining a credit report or checking your credit score in the past 12 months?,0.9588398557,0:00:00,1,TRUE
+qudo_bank_switching_segmentation,How often do you eat out at restaurants?,0,How often do you invest money?,0.8620662085,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,What is your favorite type of cuisine?,0,What types of insurance do you have?,0.7830783221,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you prefer to travel on a budget or pay for luxury accommodations?,0,How often do you stay within budget or spending plan?,0.8514720811,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you buy designer clothing or accessories?,0,How often do you invest money?,0.8679182817,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you own a boat or a second home?,0,Do you own or use any financial products?,0.8335976891,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you upgrade your smartphone?,0,How often do you invest money?,0.8521198001,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you invest in cryptocurrencies?,0,How often do you invest money?,0.8714891129,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever taken out a payday loan?,0,Are you comfortable borrowing money?,0.877831456,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,What is your favorite luxury brand?,0,Do you prefer sticking with familiar financial brands?,0.8184536,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you shop for non-essential items?,0,How often do you shop on comparison websites?,0.8736597527,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever used a shopping service like StitchFix or Trunk Club?,0,How often do you shop on comparison websites?,0.8106791313,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you have a personal chef or meal delivery service?,0,Do you own or use any financial products?,0.8068873741,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever owned a sports car or luxury vehicle?,0,Do you own or use any financial products?,0.8423244079,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you go on shopping sprees?,0,How often do you shop on comparison websites?,0.8821703026,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you prefer to buy generic or name brand products?,0,Do you prefer sticking with familiar financial brands?,0.85649929,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever taken out a home equity loan?,0,Are you comfortable borrowing money?,0.8658472597,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you buy coffee or lunch from a cafe?,0,How often do you shop on comparison websites?,0.8519400383,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever bought a lottery ticket?,0,How often do you invest money?,0.8259506895,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,What is your favorite upscale department store?,0,Do you prefer sticking with familiar financial brands?,0.7951162892,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever been on a private jet?,0,Are you comfortable borrowing money?,0.7955802401,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you upgrade your home appliances?,0,How often do you invest money?,0.8450475682,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you hire professional services for home maintenance or cleaning?,0,Do you own or use any financial products?,0.8209985462,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,What is your favorite designer brand?,0,Do you prefer sticking with familiar financial brands?,0.8145659645,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever leased a car?,0,Are you comfortable borrowing money?,0.8428958195,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you buy new gadgets?,0,How often do you invest money?,0.8720654944,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you own a vacation home?,0,Do you own or use any financial products?,0.8275288089,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever used a personal shopper?,0,How often do you shop on comparison websites?,0.8435612096,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you upgrade your TV or home theater system?,0,How often do you invest money?,0.8302853856,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,What is your favorite high-end fashion brand?,0,Do you prefer sticking with familiar financial brands?,0.802047423,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you use ride-sharing services?,0,How often do you shop on comparison websites?,0.8481160497,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever purchased a timeshare?,0,Do you own or use any financial products?,0.8179190171,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you splurge on expensive vacations or experiences?,0,Do you tend to spend money as soon as you receive it?,0.8507804637,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,What is your favorite luxury hotel chain?,0,Do you prefer sticking with familiar financial brands?,0.7968752849,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you use a personal concierge service?,0,How often do you shop on comparison websites?,0.8426715624,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever invested in art or collectibles?,0,How often do you invest money?,0.8579415156,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,What is your favorite luxury car brand?,0,Do you prefer sticking with familiar financial brands?,0.8074109649,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you own a private plane or yacht?,0,Do you own or use any financial products?,0.853240731,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you upgrade your technology?,0,How often do you invest money?,0.8638616349,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever taken out a high-interest loan?,0,Are you comfortable borrowing money?,0.8836420866,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you prefer to shop locally or online?,0,How often do you shop on comparison websites?,0.8412497715,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,What is your favorite upscale restaurant chain?,0,Do you prefer sticking with familiar financial brands?,0.7906594712,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever invested in a startup or new business?,0,Would you say you are an early adopter of innovative financial products/apps?,0.8683386663,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you use a personal assistant or secretary service?,0,How often do you contribute to a retirement plan?,0.8430742327,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,What is your favorite luxury gift brand?,0,Do you prefer sticking with familiar financial brands?,0.8009571449,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you own a vacation rental property?,0,Do you own or use any financial products?,0.8264787712,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever used a personal finance advisor?,0,How confident are you in managing your finances?,0.8709607042,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,How often do you go on luxury cruises?,0,How often do you max out credit card limits?,0.8446740334,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,What is your favorite luxury watch brand?,0,Do you prefer sticking with familiar financial brands?,0.807249467,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Have you ever invested in real estate?,0,How often do you invest money?,0.8678569325,0:00:00,0,TRUE
+qudo_bank_switching_segmentation,Do you prefer to use traditional banks or online financial technology services?,0,How do you interact with your bank or financial organization?,0.8845961956,0:00:00,0,TRUE
+,,,,,,,
+,,,,,,Accuracy,100.00%

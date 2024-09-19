@@ -1,0 +1,18 @@
+version: 1
+formatters:
+  qudo:
+    format: '%(asctime)s %(levelname)s %(name)s %(threadName)s: %(message)s'
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: qudo
+    stream: ext://sys.stdout
+loggers:
+  qudo:
+    level: DEBUG
+    handlers: [console]
+    propagate: no
+root:
+  level: INFO
+  handlers: [console]

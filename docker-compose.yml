@@ -1,0 +1,30 @@
+version: '3'
+services:
+    redis:
+        image: redis:latest
+        ports:
+            - "6379:6379"
+        command: [ "redis-server"]
+    flask:
+        image: flask
+        build:
+            context: .
+            dockerfile: scripts/dockerfile-flask
+        ports:
+            - "5002:5000"
+        depends_on:
+              - redis
+        environment:
+            - ENVIRONMENT=docker
+            - mongo_db_password=${mongo_db_password}
+            - openai_api_key=${openai_api_key}
+            - JWT_SECRET_KEY=${jwt_secret_key}
+#    celery:
+#        image: celery
+#        build:
+#            context: .
+#            dockerfile: scripts/dockerfile-celery
+#        environment:
+#            - ENVIRONMENT=docker
+#        depends_on:
+#            - redis

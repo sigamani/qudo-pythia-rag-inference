@@ -1,0 +1,11 @@
+# dockerfile
+# We inherit the Python 3 image.
+FROM python:3.8.3
+# Copy the requirements file in order to install Python dependencies
+COPY requirements.txt .
+# Install Python dependencies
+RUN pip install -r requirements.txt
+# Copy the entire source folder
+COPY . .
+# run celery
+CMD celery -A app.worker.celery worker --loglevel=debug --uid=nobody --gid=nogroup
